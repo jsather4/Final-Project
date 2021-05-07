@@ -1,0 +1,1 @@
+Our code is simply run by writing "plotstuff" in the command window. A guy figure will popup and to graph type values in to the edit boxes labeled "X Values and "Y values" these must be written as numbers followed by spaces. the appearance of the scatter plot can be changed with the button groups.
